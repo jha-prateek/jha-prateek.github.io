@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jha-prateek.github.io/precache-manifest.5bd8b1948f5b37415d06757e246d18b6.js"
+  "/jha-prateek.github.io/precache-manifest.38a9bcda0b25747c261270b1ca22c28d.js"
 );
 
 self.addEventListener('message', (event) => {
