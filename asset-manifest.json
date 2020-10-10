@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/jha-prateek.github.io/static/css/main.f71d4c7f.chunk.css",
-    "main.js": "/jha-prateek.github.io/static/js/main.0fb8b7ef.chunk.js",
-    "main.js.map": "/jha-prateek.github.io/static/js/main.0fb8b7ef.chunk.js.map",
+    "main.css": "/jha-prateek.github.io/static/css/main.80b3607c.chunk.css",
+    "main.js": "/jha-prateek.github.io/static/js/main.ff8bcea5.chunk.js",
+    "main.js.map": "/jha-prateek.github.io/static/js/main.ff8bcea5.chunk.js.map",
     "runtime-main.js": "/jha-prateek.github.io/static/js/runtime-main.e38c3c7b.js",
     "runtime-main.js.map": "/jha-prateek.github.io/static/js/runtime-main.e38c3c7b.js.map",
-    "static/js/2.fcba7fc6.chunk.js": "/jha-prateek.github.io/static/js/2.fcba7fc6.chunk.js",
-    "static/js/2.fcba7fc6.chunk.js.map": "/jha-prateek.github.io/static/js/2.fcba7fc6.chunk.js.map",
+    "static/css/2.13796217.chunk.css": "/jha-prateek.github.io/static/css/2.13796217.chunk.css",
+    "static/js/2.52d7e33a.chunk.js": "/jha-prateek.github.io/static/js/2.52d7e33a.chunk.js",
+    "static/js/2.52d7e33a.chunk.js.map": "/jha-prateek.github.io/static/js/2.52d7e33a.chunk.js.map",
     "index.html": "/jha-prateek.github.io/index.html",
-    "precache-manifest.38a9bcda0b25747c261270b1ca22c28d.js": "/jha-prateek.github.io/precache-manifest.38a9bcda0b25747c261270b1ca22c28d.js",
+    "precache-manifest.40f31c8bff4a99835a427d5bbd88c673.js": "/jha-prateek.github.io/precache-manifest.40f31c8bff4a99835a427d5bbd88c673.js",
     "service-worker.js": "/jha-prateek.github.io/service-worker.js",
-    "static/css/main.f71d4c7f.chunk.css.map": "/jha-prateek.github.io/static/css/main.f71d4c7f.chunk.css.map",
-    "static/js/2.fcba7fc6.chunk.js.LICENSE.txt": "/jha-prateek.github.io/static/js/2.fcba7fc6.chunk.js.LICENSE.txt",
-    "static/media/profile.png": "/jha-prateek.github.io/static/media/profile.29cb1ca3.png"
+    "static/css/2.13796217.chunk.css.map": "/jha-prateek.github.io/static/css/2.13796217.chunk.css.map",
+    "static/css/main.80b3607c.chunk.css.map": "/jha-prateek.github.io/static/css/main.80b3607c.chunk.css.map",
+    "static/js/2.52d7e33a.chunk.js.LICENSE.txt": "/jha-prateek.github.io/static/js/2.52d7e33a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e38c3c7b.js",
-    "static/js/2.fcba7fc6.chunk.js",
-    "static/css/main.f71d4c7f.chunk.css",
-    "static/js/main.0fb8b7ef.chunk.js"
+    "static/css/2.13796217.chunk.css",
+    "static/js/2.52d7e33a.chunk.js",
+    "static/css/main.80b3607c.chunk.css",
+    "static/js/main.ff8bcea5.chunk.js"
   ]
 }
